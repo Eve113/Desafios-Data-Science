@@ -26,7 +26,7 @@
           <mxGeometry x="125" y="391" width="103" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xhJpXwO1KwRMIyCvbBH5-5" value="Inventario" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="509" y="411" width="100" height="42" as="geometry" />
+          <mxGeometry x="506" y="390" width="100" height="42" as="geometry" />
         </mxCell>
         <mxCell id="3Lzo7K_a3jLQfffg2xJo-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="1" source="xhJpXwO1KwRMIyCvbBH5-6" target="xhJpXwO1KwRMIyCvbBH5-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -70,7 +70,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3Lzo7K_a3jLQfffg2xJo-23" value="Existe" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="306" y="401" width="118" height="59" as="geometry" />
+          <mxGeometry x="316" y="381.5" width="118" height="59" as="geometry" />
         </mxCell>
         <mxCell id="3Lzo7K_a3jLQfffg2xJo-26" value="(1,N)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="232" y="395" width="56" height="40" as="geometry" />
