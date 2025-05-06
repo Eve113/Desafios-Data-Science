@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Página-1" id="8OAadzP3MpR4r65aK0Iq">
-    <mxGraphModel dx="891" dy="1070" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="629" dy="713" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xhJpXwO1KwRMIyCvbBH5-1" value="Cliente" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-207" y="179.5" width="113" height="40" as="geometry" />
+          <mxGeometry x="-207" y="179.5" width="113" height="49.5" as="geometry" />
         </mxCell>
         <mxCell id="xhJpXwO1KwRMIyCvbBH5-2" value="Pedido" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="125" y="-38.5" width="103" height="47" as="geometry" />
@@ -95,7 +95,13 @@
           <mxGeometry x="183.5" y="132" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="09oHRSjSlYeShRvsq0ha-2" value="Nombre" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-197" y="355" width="100" height="40" as="geometry" />
+          <mxGeometry x="-65" y="296" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="09oHRSjSlYeShRvsq0ha-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xhJpXwO1KwRMIyCvbBH5-1" target="09oHRSjSlYeShRvsq0ha-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="09oHRSjSlYeShRvsq0ha-10" value="Dirección" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-68" y="357" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
